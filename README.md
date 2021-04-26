@@ -3,7 +3,7 @@
 
 - 🔭 I’m new to Coding
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 
 - 💻 All of my published projects are available at [https://github.com/yinuzo](https://GitHub.com/yinuzo)
 
