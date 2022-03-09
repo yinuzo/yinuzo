@@ -7,6 +7,6 @@
 
 - 💻 All of my published projects are available at [https://github.com/yinuzo](https://GitHub.com/yinuzo)
 
-- 📫 How to reach me: (Discord:) yinuzo#0001
+- 📫 How to reach me: (Discord:) yinuzo#0085
 
 - ⚡ Fun fact: I got my first PC (Mac) when I was five.
